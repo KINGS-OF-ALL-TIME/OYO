@@ -1,6 +1,6 @@
-#!/bin/bash
+-!/bin/bash -x
  num=$1
-if [ `expr $NUM %2` -eq 0 ]
+ [ `expr $NUM %2` -eq 0 ]
 then  
 	echo  "NUM is even"
 else 
