@@ -1,4 +1,4 @@
--!/bin/bash -x
+!/bin/bash x
  num=$1
  [ `expr $NUM %2` -eq 0 ]
 then  
@@ -7,3 +7,4 @@ else
 	echo "NUM is odd"
 fi
 baba is wunderful;l word
+hello hello
