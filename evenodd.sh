@@ -1,4 +1,4 @@
-!/bin/bash x
+!dgdgduhgvdiugdgfbeldu.ifv/bin/bash x
  num=$1
  [ `expr $NUM %2` -eq 0 ]
 then  
