@@ -4,3 +4,6 @@ jackfruit
 litiche
 orange
 mango
+gavava
+java 
+lava
