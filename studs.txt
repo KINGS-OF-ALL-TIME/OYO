@@ -3,3 +3,5 @@ chama
 gama
 dama
 chuma
+silla
+milla

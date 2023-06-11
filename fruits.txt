@@ -6,3 +6,5 @@ orange
 mango
 kiwi
 gavav
+chiku
+papya
