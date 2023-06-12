@@ -4,7 +4,13 @@ jackfruit
 litiche
 orange
 mango
+<<<<<<< HEAD
 kiwi
 gavav
 chiku
 papya
+=======
+gavava
+java 
+lava
+>>>>>>> oyo/master
